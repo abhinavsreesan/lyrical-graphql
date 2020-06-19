@@ -1,0 +1,9 @@
+email: hegefih166@royandk.com
+user: admin
+pass: PuKELeQOVsbNlEb9
+
+https://cloud.mongodb.com/v2/5eea22aef0c58462bfc33602#security/network/whitelist
+
+mongodb+srv://admin:PuKELeQOVsbNlEb9@cluster0-hbj1j.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+mongodb+srv://admin:PuKELeQOVsbNlEb9@cluster0-hbj1j.mongodb.net/Song?retryWrites=true&w=majority
